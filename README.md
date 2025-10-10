@@ -1,118 +1,125 @@
-<!-- 🌟 Animated Introduction -->
+<!-- 🌟 Animated Typing Intro -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF4B91&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Himanshu+Bisai+👋;Full-Stack+Developer+%7C+AI+Engineer+%7C+Tech+Innovator;Building+next-gen+web+experiences+with+3D+and+AI+✨;Let's+craft+something+amazing+together+🚀" 
-    alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF4B91,100:00F7FF&text=&section=header&reversal=false&fontAlign=50&fontAlignY=40&animation=fadeIn" />
 </p>
 
 
+
+
+
+
+
+
 <p align="center">
-  <img src="https://github.com/himanshu201031/himanshu201031/assets/yourimageid/banner.gif" width="90%" alt="Developer Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=FF61F6&center=true&vCenter=true&width=1000&lines=Hey+👋,+I'm+Himanshu+Bisai;Full-Stack+Developer+%7C+AI+Engineer+%7C+Innovator;Crafting+Immersive+3D+%26+AI+Web+Experiences+🚀" alt="Typing Animation"/>
 </p>
 
----
+<!-- ✨ Neon Divider -->
 
-## 👨‍💻 About Me
-
-- 💡 **Full-Stack Developer** with a creative twist — crafting modern web experiences with **React**, **Node.js**, and **3D animation** using **GSAP & WebGL**.  
-- 🤖 Passionate about **AI-powered web apps** — blending tech and creativity for smarter user experiences.  
-- 🚀 Creator of **DocSpot**, **Redex**, **FlowDine**, and **CareerHive** — projects loved for their clean UI and tech depth.  
-- 🌍 On a mission to make **tech learning accessible and inspiring** for developers everywhere.  
-- ☕ Fueled by coffee, code, and curiosity.
 
 ---
 
-## ⚙️ Tech Stack
+## 👨‍💻 About Me  
+
+💡 **Creative Full-Stack Engineer** blending design, AI, and technology to create intelligent, human-like interfaces.  
+🧠 Passionate about **next-gen UI**, **AI tools**, and **3D motion experiences**.  
+🛠 Building products that merge **functionality, storytelling, and visual experience**.  
+🎯 Founder of **CareerHive**, **Redex**, and **DocSpot** — empowering innovation through tech.  
+
+---
+
+## ⚙️ Tech Universe  
 
 ### 💻 Languages & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,graphql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,graphql&perline=8" />
 </p>
 
 ### 🧩 Tools & DevOps  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,aws,postman,figma,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,aws,postman,vercel,figma,vscode,linux&perline=8" />
 </p>
 
 ### 🎨 Design & Animation  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=framer,blender,threejs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=framer,gsap,threejs,blender,ae,tailwind,bootstrap&perline=7" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Creations  
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🎯 **CareerHive** | Centralized career growth platform for devs with AI mentorship and free resources | MERN, OpenAI API, Tailwind |
-| 💊 **DocSpot** | AI-driven medical assistant app with real-time doctor search | React Native, Flask, TensorFlow |
-| 🎬 **Redex** | Immersive cinematic web experience built with GSAP | React, Vite, GSAP |
-| 🍽 **FlowDine** | 3D restaurant concept using Spline + Framer Motion | Next.js, Spline, Motion |
-
----
-
-## 🏆 Achievements & Highlights
-
-- ⭐ GitHub Star & 20K+ downloads (Redex)
-- 🧠 Finalist @ Google Solution Challenge 2025
-- 💼 Speaker @ DevCon 2025
-- 🌱 Contributor to Open Source UI/UX libraries  
-- 🥇 Top 1% in DSA & Web Dev challenges on LeetCode and CodeChef
+| 🚧 Project | 💡 Description | ⚙️ Stack |
+|-------------|----------------|----------|
+| 🧠 **CareerHive** | Centralized platform for career development, mentorship, and AI job guidance | MERN + OpenAI + Tailwind |
+| 💊 **DocSpot** | AI-powered healthcare assistant with live doctor mapping | React Native + Flask + TensorFlow |
+| 🎬 **Redex** | Cinematic scrolling experience with 3D motion | React + GSAP + Framer |
+| 🍽 **FlowDine** | 3D restaurant concept with real-time interactions | Next.js + Spline + Motion |
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements  
+
+- 🥇 **Top 1%** in DSA & Full-Stack Challenges on LeetCode  
+- 🌐 **20K+ Downloads** on Redex Open Source Template  
+- 💼 **Speaker @ DevCon 2025** | **Finalist @ Google Solution Challenge**  
+- 🧑‍💻 Contributor to open-source design & AI frameworks  
+
+---
+
+## 📊 GitHub Metrics  
 
 <div align="center">
-  
-![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshu201031&show_icons=true&theme=radical&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu201031&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=himanshu201031&theme=radical)
+
+![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshu201031&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu201031&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanshu201031&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🎨 Fun Visuals
+## 🎨 Visual Fun  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
 
-## 🧠 Currently Exploring
+## 🌈 What I’m Exploring  
 
-- 🤖 AI Agents & PromptOps  
-- 🎨 WebGL & Interactive 3D  
-- 🌐 Scalable SaaS Architectures  
-- 🧩 Building “Red Sheet” — A smart DSA tracker platform  
+- 🤖 Building **AI Agents** for smart developer tools  
+- 🌐 Architecting **scalable SaaS products**  
+- 🎮 Experimenting with **WebGL + React Three Fiber**  
+- 🧩 Designing **Red Sheet** — an AI DSA Companion  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/your-profile"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="https://your-portfolio-link.com"><img src="https://skillicons.dev/icons?i=vercel" width="40" /></a>
   <a href="https://twitter.com/yourhandle"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
   <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+  <a href="https://himanshu201031.github.io"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
 </p>
 
 ---
 
-## 💬 Quote
-> *"Code is the art of thinking made visible — build, break, and believe."* 🎨  
+## ✨ Dev Quote  
+
+> _"Code is the art of turning imagination into innovation."_ 🎨  
 
 ---
 
+<!-- 🏆 Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshu201031&theme=darkhub&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshu201031&theme=tokyonight&column=6&margin-w=10&no-frame=true" />
 </p>
 
----
-
+<!-- 🧭 Footer -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanshu201031&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,100:FF4B91&section=footer" />
 </p>
