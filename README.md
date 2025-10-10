@@ -30,20 +30,18 @@
 
 ## ⚙️ Tech Universe  
 
-### 💻 Languages & Frameworks  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,graphql&perline=8" />
-</p>
+💻 Development Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,php,html,css,react,nextjs,jquery,flutter,nodejs,express,graphql&perline=8" /> </p>
 
-### 🧩 Tools & DevOps  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,aws,postman,vercel,figma,vscode,linux&perline=8" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql,postgres,prisma,redis,firebase,supabase&perline=8" /> </p>
 
-### 🎨 Design & Animation  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=framer,gsap,threejs,blender,ae,tailwind,bootstrap&perline=7" />
-</p>
+🧩 Tools, DevOps & Productivity
+<p align="center"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,azure,aws,postman,jest,vercel,vscode,linux,notion&perline=8" /> </p>
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,webpack,vite,babel&perline=7" /> </p>
+
+🎨 Design & Creative Technologies
+<p align="center"> <img src="https://skillicons.dev/icons?i=threejs,blender,figma,tailwind,bootstrap&perline=7" /> </p>
 
 ---
 
