@@ -36,9 +36,9 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql,postgres,prisma,redis,firebase,supabase&perline=8" /> </p>
 
 🧩 Tools, DevOps & Productivity
-<p align="center"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,azure,aws,postman,jest,vercel,vscode,linux,notion&perline=8" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,azure,aws,postman,jest,vercel,vscode,linux,notion,npm,yarn,pnpm,webpack,vite,babel&perline=8" />  </p>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,webpack,vite,babel&perline=7" /> </p>
+
 
 🎨 Design & Creative Technologies
 <p align="center"> <img src="https://skillicons.dev/icons?i=threejs,blender,figma,tailwind,bootstrap&perline=7" /> </p>
