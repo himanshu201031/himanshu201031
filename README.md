@@ -20,19 +20,11 @@
 💡 **Creative Full-Stack Engineer** blending design, AI, and technology to create intelligent, human-like interfaces.  
 🧠 Passionate about **next-gen UI**, **AI tools**, and **3D motion experiences**.  
 🛠 Building products that merge **functionality, storytelling, and visual experience**.  
-🎯 Founder of **CareerHive**, **Redex**, and **DocSpot** — empowering innovation through tech.  
+🎯 Founder of **Pixatlas**, **Redex**, and **Lernova** — empowering innovation through tech.  
 
 ---
 
-## 💬 Latest Posts & Activity (Dynamic Content)
 
-> **📝 NOTE:** These sections require a **GitHub Action** to be set up in your repository (in the `.github/workflows/` directory) to fetch and update the content automatically.
-
-### 📰 Latest Blog Posts:
-- 🤖 (Placeholder) Your latest blog post title will appear here! (Setup required)
-### 📢 Recent GitHub Activity:
-- 🧑‍💻 (Placeholder) Your recent commits, issues, and PRs will appear here! (Setup required)
----
 
 ## ⚙️ Tech Universe  
 
@@ -71,21 +63,24 @@
 
 ---
 
-## 📊 GitHub Metrics  
+📊 GitHub Stats  
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu201031&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
-<div align="center">
+🔥 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu201031&layout=compact&langs_count=8&theme=tokyonight)
 
-![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshu201031&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu201031&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanshu201031&theme=tokyonight)
+🔥 GitHub Streak  
+![GitHub Streak](https://streak-stats.demolab.com?user=himanshu201031&theme=tokyonight&hide_border=false)
+
+🏆 GitHub Achievements  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=himanshu201031&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+"Code is the art of turning imagination into innovation." 🎨  
 
 </div>
 
 ---
 
-## ⏰ Development Activity (WakaTime)
-
-> **⚠️ ACTION REQUIRED:** Replace `YOUR_WAKATIME_USERNAME` with your actual username.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" alt="WakaTime Stats" />
@@ -101,13 +96,6 @@
 
 ---
 
-## 🎧 Vibe Check (Currently Listening)
-
-> **⚠️ ACTION REQUIRED:** Replace `YOUR_SPOTIFY_USERNAME` with your actual Spotify profile username.
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?username=YOUR_SPOTIFY_USERNAME&theme=tokyonight&show_covers=true" />
-</p>
 
 ---
 
