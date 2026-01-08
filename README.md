@@ -20,7 +20,7 @@
 💡 **Creative Full-Stack Engineer** blending design, AI, and technology to create intelligent, human-like interfaces.  
 🧠 Passionate about **next-gen UI**, **AI tools**, and **3D motion experiences**.  
 🛠 Building products that merge **functionality, storytelling, and visual experience**.  
-🎯 Founder of **Pixatlas**, **Redex**, and **Lernova** — empowering innovation through tech.  
+🎯 Founder of **Pixatlas**, **Genova**, and **Lernova** — empowering innovation through tech.  
 
 ---
 
