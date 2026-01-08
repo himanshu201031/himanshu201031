@@ -111,10 +111,10 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="https://linkedin.com/in/your-profile](https://www.linkedin.com/in/himanshu-bisai-74557a254/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="https://your-portfolio-link.com"><img src="https://skillicons.dev/icons?i=vercel" width="40" /></a>
   <a href="https://twitter.com/yourhandle"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+  <a href="himanshu.bisai7075@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
   <a href="https://himanshu201031.github.io"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
 </p>
 
