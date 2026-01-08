@@ -56,7 +56,7 @@
 
 ## 🏆 Achievements  
 
-- 🥇 **Top 1%** in DSA & Full-Stack Challenges on LeetCode  
+- 🥇 **Top 20%** in DSA & Full-Stack Challenges on LeetCode  
 - 🌐 **20K+ Downloads** on Redex Open Source Template  
 - 💼 **Speaker @ DevCon 2025** | **Finalist @ Google Solution Challenge**  
 - 🧑‍💻 Contributor to open-source design & AI frameworks  
