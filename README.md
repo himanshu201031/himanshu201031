@@ -120,12 +120,6 @@
 
 ---
 
-## ✨ Dev Quote  
-
-> _"Code is the art of turning imagination into innovation."_ 🎨  
-
----
-
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=himanshu201031&theme=tokyonight&column=-1&margin-w=10&no-frame=true" />
 </p>
