@@ -1,129 +1,67 @@
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Himanshu Bisai</h1>
+<h3 align="center">Full-Stack Dev & Application developer</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF4B91,100:00F7FF&text=&section=header&reversal=false&fontAlign=50&fontAlignY=40&animation=fadeIn" />
+  <a href="https://komarev.com/ghpvc/?username=himanshu201031">
+    <img src="https://komarev.com/ghpvc/?username=himanshu201031&label=Profile%20views&color=00FFFF&style=flat-square" alt="himanshu201031's profile views" />
+  </a>
+</p>
+
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- 💡 Creative Full-Stack Engineer blending design, AI, and technology to create intelligent, human-like interfaces.   🧠 Passionate about next-gen UI, AI tools, and 3D motion experiences.   🛠 Building products that merge functionality, storytelling, and visual experience.   🎯 Founder of Pixatlas, Genova, and Lernova — empowering innovation through tech.
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu201031&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="himanshu201031's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=himanshu201031&theme=nightowl&hide_border=true&cache_seconds=86400" alt="himanshu201031's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshu201031&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Himanshu Bisai's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu201031&theme=nightowl&radius=10" alt="himanshu201031's Activity Graph" />
 </p>
 
 
+## 🛠️ Languages & Tools
 
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
 
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
 
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
 
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
 
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=FF61F6&center=true&vCenter=true&width=1000&lines=Hey+👋,+I'm+Himanshu+Bisai;Full-Stack+Developer+%7C+AI+Engineer+%7C+Innovator;Crafting+Immersive+3D+%26+AI+Web+Experiences+🚀" alt="Typing Animation"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu201031&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
----
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/himanshu-bisai-74557a254" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/9107075785440" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:himanshu.bisai7075@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-## 👨‍💻 About Me  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
-💡 **Creative Full-Stack Engineer** blending design, AI, and technology to create intelligent, human-like interfaces.  
-🧠 Passionate about **next-gen UI**, **AI tools**, and **3D motion experiences**.  
-🛠 Building products that merge **functionality, storytelling, and visual experience**.  
-🎯 Founder of **Pixatlas**, **Genova**, and **Lernova** — empowering innovation through tech.  
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
----
-
-
-
-## ⚙️ Tech Universe  
-
-💻 Development Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,php,html,css,react,nextjs,jquery,flutter,nodejs,express,graphql&perline=8" /> </p>
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql,postgres,prisma,redis,firebase,supabase&perline=8" /> </p>
-
-🧩 Tools, DevOps & Productivity
-<p align="center"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,azure,aws,postman,jest,vercel,vscode,linux,notion,npm,yarn,pnpm,webpack,vite,babel&perline=8" />  </p>
-
-
-
-🎨 Design & Creative Technologies
-<p align="center"> <img src="https://skillicons.dev/icons?i=threejs,blender,figma,tailwind,bootstrap&perline=7" /> </p>
-
----
-
-## 🚀 Featured Creations  
-
-| 🚧 Project | 💡 Description | ⚙️ Stack |
-|-------------|----------------|----------|
-| 🧠 **CareerHive** | Centralized platform for career development, mentorship, and AI job guidance | MERN + OpenAI + Tailwind |
-| 💊 **DocSpot** | AI-powered healthcare assistant with live doctor mapping | React Native + Flask + TensorFlow |
-| 🎬 **Redex** | Cinematic scrolling experience with 3D motion | React + GSAP + Framer |
-| 🍽 **FlowDine** | 3D restaurant concept with real-time interactions | Next.js + Spline + Motion |
-
----
-
-## 🏆 Achievements  
-
-- 🥇 **Top 20%** in DSA & Full-Stack Challenges on LeetCode  
-- 🌐 **20K+ Downloads** on Redex Open Source Template  
-- 💼 **Speaker @ DevCon 2025** | **Finalist @ Google Solution Challenge**  
-- 🧑‍💻 Contributor to open-source design & AI frameworks  
-
----
-
-📊 GitHub Stats  
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu201031&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-
-🔥 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu201031&layout=compact&langs_count=8&theme=tokyonight)
-
-🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=himanshu201031&theme=tokyonight&hide_border=false)
-
-🏆 GitHub Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=himanshu201031&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-"Code is the art of turning imagination into innovation." 🎨  
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
 
----
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" alt="WakaTime Stats" />
-</p>
-
----
-
-## 🎨 Visual Fun  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
----
-
-
----
-
-## 🌈 What I’m Exploring  
-
-- 🤖 Building **AI Agents** for smart developer tools  
-- 🌐 Architecting **scalable SaaS products**  
-- 🎮 Experimenting with **WebGL + React Three Fiber**  
-- 🧩 Designing **Red Sheet** — an AI DSA Companion  
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile](https://www.linkedin.com/in/himanshu-bisai-74557a254/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://skillicons.dev/icons?i=vercel" width="40" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
-  <a href="himanshu.bisai7075@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
-  <a href="https://himanshu201031.github.io"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-</p>
-
----
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=himanshu201031&theme=tokyonight&column=-1&margin-w=10&no-frame=true" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,100:FF4B91&section=footer" />
-</p>
