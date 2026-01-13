@@ -1,11 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Himanshu Bisai</h1>
-<h3 align="center">Full-Stack Dev & Application developer</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=himanshu201031">
-    <img src="https://komarev.com/ghpvc/?username=himanshu201031&label=Profile%20views&color=00FFFF&style=flat-square" alt="himanshu201031's profile views" />
-  </a>
-</p>
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
