@@ -1,64 +1,94 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Himanshu Bisai</h1>
-
-
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- 💡 Creative Full-Stack Engineer blending design, AI, and technology to create intelligent, human-like interfaces.   🧠 Passionate about next-gen UI, AI tools, and 3D motion experiences.   🛠 Building products that merge functionality, storytelling, and visual experience.   🎯 Founder of Pixatlas, Genova, and Lernova — empowering innovation through tech.
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu201031&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="himanshu201031's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=himanshu201031&theme=nightowl&hide_border=true&cache_seconds=86400" alt="himanshu201031's GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu201031&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshu201031&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Himanshu Bisai's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu201031&theme=nightowl&radius=10" alt="himanshu201031's Activity Graph" />
-</p>
-
-
-
-
-## 🛠️ Languages & Tools
-
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
-
-
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/himanshu-bisai-74557a254" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:himanshu.bisai7075@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+
+<p><code>himanshu201031@github ~ $ ./maintainer.sh</code></p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=himanshu201031&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F163623674%3Fu%3Dc4c6186c255ade319f6587c26bfd6fdefed3b094%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/system-scan?username=himanshu201031&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F163623674%3Fu%3Dc4c6186c255ade319f6587c26bfd6fdefed3b094%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Himanshu Bisai animated maintainer system scan" />
+</picture>
+</p>
 </div>
 
+<h2>Why I build in public</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Focus</h3><p><code>TypeScript</code> · <code>JavaScript</code> · <code>HTML</code></p></td>
+<td width="33%" valign="top"><h3>Proof</h3><p>59 public repositories · 50 stars</p></td>
+<td width="33%" valign="top"><h3>Contribution</h3><p>497 contributions · 72 active days</p></td>
+</tr>
+</table>
+
+<p>Full-Stack Dev &amp; Application developer | Building immersive, animated, and intelligent web experiences that push creativity forward.</p>
+
+<h2>Open-source toolbox</h2>
+
+<p><code>himanshu201031@github ~ $ toolbox --list</code></p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=himanshu201031&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F163623674%3Fu%3Dc4c6186c255ade319f6587c26bfd6fdefed3b094%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=himanshu201031&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F163623674%3Fu%3Dc4c6186c255ade319f6587c26bfd6fdefed3b094%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="Himanshu Bisai open-source technology toolbox" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="17%" align="center"><strong>TypeScript</strong><br /><sub>51%</sub></td>
+<td width="17%" align="center"><strong>JavaScript</strong><br /><sub>45%</sub></td>
+<td width="17%" align="center"><strong>HTML</strong><br /><sub>2%</sub></td>
+<td width="17%" align="center"><strong>CSS</strong><br /><sub>1%</sub></td>
+<td width="17%" align="center"><strong>ANTLR</strong><br /><sub>0%</sub></td>
+<td width="17%" align="center"><strong>Makefile</strong><br /><sub>0%</sub></td>
+</tr>
+</table>
+
+<h2>Repositories worth exploring</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=himanshu201031&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F163623674%3Fu%3Dc4c6186c255ade319f6587c26bfd6fdefed3b094%26v%3D4&repos=himanshu201031%2FMyPortfolio%2Chimanshu201031%2FGenova%2Chimanshu201031%2FMustang-1969%2Chimanshu201031%2FLearnova%2Chimanshu201031%2FSmart_Bookmark&v=oss-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=himanshu201031&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F163623674%3Fu%3Dc4c6186c255ade319f6587c26bfd6fdefed3b094%26v%3D4&repos=himanshu201031%2FMyPortfolio%2Chimanshu201031%2FGenova%2Chimanshu201031%2FMustang-1969%2Chimanshu201031%2FLearnova%2Chimanshu201031%2FSmart_Bookmark&v=oss-projects-1&mode=dark" width="860" alt="Himanshu Bisai maintainer repositories" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><h3><a href="https://github.com/himanshu201031/Genova">Genova</a></h3><p>Genova positions itself as a next-generation skincare brand that blends science, nature, and innovation. The project emphasizes clean beauty principle</p><p><sub>JavaScript · ⭐ 1</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/himanshu201031/Mustang-1969">Mustang-1969</a></h3><p>1969 Mustang – 428 Cobra Jet (7.0L V8) The year the Mustang evolved into a true muscle car. Powerful performance, bold design, and an unmistakable pr</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/himanshu201031/Learnova">Learnova</a></h3><p>MASTER THE FUTURE TODAY. Stop watching tutorials. Start building. Expert-led courses in coding, design, and business.</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/himanshu201031/Smart_Bookmark">Smart_Bookmark</a></h3><p>A premium, real-time bookmark management system built with Next.js 15 and Supabase. Designed with a sophisticated monochromatic glassmorphic aesthetic</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
+</tr>
+</table>
+
+<h2>Contribution activity</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=himanshu201031&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F163623674%3Fu%3Dc4c6186c255ade319f6587c26bfd6fdefed3b094%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=himanshu201031&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F163623674%3Fu%3Dc4c6186c255ade319f6587c26bfd6fdefed3b094%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="Himanshu Bisai open-source signal" />
+</picture>
+</p>
+
+<h2>Contribution trail</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=himanshu201031&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F163623674%3Fu%3Dc4c6186c255ade319f6587c26bfd6fdefed3b094%26v%3D4&v=oss-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=himanshu201031&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F163623674%3Fu%3Dc4c6186c255ade319f6587c26bfd6fdefed3b094%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="Himanshu Bisai contribution trail" />
+</picture>
+</p>
+
+<hr />
+
+<h2>Contribute together</h2>
+
+<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
+
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=himanshu201031&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F163623674%3Fu%3Dc4c6186c255ade319f6587c26bfd6fdefed3b094%26v%3D4&v=oss-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=himanshu201031&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F163623674%3Fu%3Dc4c6186c255ade319f6587c26bfd6fdefed3b094%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="Himanshu Bisai community links" />
+</picture></p>
+<p align="center"><a href="https://github.com/himanshu201031">GitHub</a> &nbsp;·&nbsp; <a href="https://himanshu-bisai.vercel.app/">Website</a></p>
+<p align="center"><sub>Himanshu Bisai · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
